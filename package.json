@@ -16,5 +16,8 @@
   "bugs": {
     "url": "https://github.com/kiyo7/TypeScript/issues"
   },
-  "homepage": "https://github.com/kiyo7/TypeScript#readme"
+  "homepage": "https://github.com/kiyo7/TypeScript#readme",
+  "devDependencies": {
+    "typescript": "^3.7.5"
+  }
 }
